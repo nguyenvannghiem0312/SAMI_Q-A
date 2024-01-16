@@ -1,0 +1,20 @@
+TS. Đỗ Trọng Hoàng
+Giảng viên
+Email: hoang.dotrong@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Giải tích
+2. Toán rời rạc
+3. Đại số tuyến tính
+4. Toán cao cấp dành cho các nhà kinh tế
+5. Calculus
+6. Linear Algebra
+7. Đại số máy tính (Cao học)
+8. Tối ưu tổ hợp (Cao học)
+
+
+Hướng nghiên cứu
+- Đại số giao hoán (Iđêan đơn thức, vành Cohen-Macaulay, và các bất biến đại số)
+- Lý thuyết đồ thị (tập độc lập, ghép cặp, đa thức độc lập, đồ thị phủ tốt,...)
+- Độ phức tạp tính toán

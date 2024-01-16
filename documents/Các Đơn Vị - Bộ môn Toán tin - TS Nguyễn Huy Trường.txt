@@ -1,0 +1,18 @@
+TS. Nguyễn Huy Trường
+Giảng viên chính
+
+
+Các môn học đã và đang giảng dạy
+1. Giải tích 2
+2. Đại số
+3. Kỹ thuật lập trình
+4. Cấu trúc dữ liệu và giải thuật
+5. Tính toán song song
+6. Logic thuật toán
+7. Lập trình hướng đối tượng
+
+
+Hướng nghiên cứu
+1. Ứng dụng của otomat và lý thuyết đồ thị
+2. Thuật toán tìm kiếm
+3. Mã và ứng dụng

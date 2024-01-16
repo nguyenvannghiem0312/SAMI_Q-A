@@ -1,0 +1,18 @@
+TS. Vũ Thị Ngọc Hà
+Giảng viên chính
+Email: ha.vuthingoc@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Giải tích phức và ứng dụng
+2. Đại số, Giải tích I, II, III.
+3. Phép tính toán tử.
+4. Biến đổi Fourier và Laplace
+5. Giải tích Fourier
+
+
+Hướng nghiên cứu
+1. Phương pháp phức trong phương trình đạo hàm riêng.
+2. Giải tích Fourier và các bài toán giá trị biên.
+3. Phép biến đổi Laplace và ứng dụng
+4. Phương trình truyền sóng và ứng dụng

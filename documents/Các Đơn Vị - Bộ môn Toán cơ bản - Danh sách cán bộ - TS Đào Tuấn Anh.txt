@@ -1,0 +1,20 @@
+TS. Đào Tuấn Anh
+Giảng viên
+Email: anh.daotuan@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1.   Đại số
+2.   Giải tích III
+3.   Xác suất thống kê
+* Các hệ đạo tạo tham gia giảng dạy: ĐHCQ, CTTT, SIE
+
+
+Hướng nghiên cứu
+1.   Phương trình đạo hàm riêng tuyến tính, nửa tuyến tính và ứng dụng:
++ Bài toán cụ thể: Phương trình sigma-tiến hóa giảm;
++ Bài toán ứng dụng: Cơ học (sóng âm, động lực học chất lỏng), Truyền thông (sóng điện từ, wifi, xử lý ảnh), Tài chính (định giá cổ phiếu), Hàng không (hiện tượng nhiễu trên các chuyến bay);
++ Bài toán lập trình: Mô phỏng và giải số trên Matlab và C++, Java hoặc Python.
+2.   Xác suất thống kê: Kì vọng, Kì vọng điều kiện, Martingale trên trường địa phương và các ứng dụng.
+3.   Toán sinh thái: Mô hình và mô phỏng các bài toán về hệ động lực thú mồi.
+* Thành viên: Hội nghị quốc tế về Giải tích, Tính toán khoa học và Ứng dụng (ISAAC).

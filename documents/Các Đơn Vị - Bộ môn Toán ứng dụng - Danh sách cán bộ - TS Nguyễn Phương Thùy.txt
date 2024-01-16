@@ -1,0 +1,19 @@
+TS. Nguyễn Phương Thùy
+Giảng viên chính
+Email: thuy.nguyenphuong@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Phương pháp tính
+2. Lập trình tính toán
+3. Phương pháp tính và MATLAB
+4. Giải tích 1,2
+5. Nhập môn Toán Tin
+6. Nhập môn hệ thống thông tin quản lý
+7. Mô hình mô phỏng hệ thống sinh thái
+8. Xử lý ảnh
+
+
+Hướng nghiên cứu
+1. Các mô hình liên tục và rời rạc cho hệ phức tạp.
+2. Các mô hình toán trong xử lý ảnh.

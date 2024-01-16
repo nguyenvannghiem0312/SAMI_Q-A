@@ -1,0 +1,25 @@
+Lĩnh vực chuyên môn
+Nghiên cứu về toán ứng dụng và khả năng ứng dụng toán học để giải các bài toán nảy sinh trong thực tế. Một số hướng nghiên cứu chính của Bộ môn:
+1. Tính toán khoa học
+- Giải số các bài toán dạng cơ học, phương trình vật lý toán và ứng dụng,
+- Khai phá dữ liệu, học máy,
+- Xử lý ảnh,
+- Điều khiển tối ưu, hệ động lực,
+- Mô hình hóa các hệ phức tạp.
+
+
+Nghiên cứu về toán ứng dụng và khả năng ứng dụng toán học để giải các bài toán nảy sinh trong thực tế. Một số hướng nghiên cứu chính của Bộ môn:
+2. Các phương pháp tối ưu và ứng dụng
+- Quy hoạch đa mục tiêu,
+- Quy hoạch không lồi, quy hoạch DC,
+- Các bài toán tối ưu mạng,
+- Các phương pháp giải bài toán tối ưu cỡ lớn,
+- Các bài toán tối ưu ứng dụng trong kinh tế tài chính, giao thông vận tải, viễn thông, nông nghiệp, y tế …
+
+
+Nghiên cứu về toán ứng dụng và khả năng ứng dụng toán học để giải các bài toán nảy sinh trong thực tế. Một số hướng nghiên cứu chính của Bộ môn:
+3. Quá trình ngẫu nhiên
+- Toán tài chính,
+- Phân tích dữ liệu và quy hoạch thực nghiệm,
+- Mô phỏng quá trình ngẫu nhiên trong hệ phức tạp,
+- Các quá trình ngẫu nhiên và ứng dụng.

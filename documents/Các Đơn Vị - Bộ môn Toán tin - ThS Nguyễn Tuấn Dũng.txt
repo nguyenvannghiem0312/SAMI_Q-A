@@ -1,0 +1,20 @@
+ThS. Nguyễn Tuấn Dũng
+Giảng viên
+Email: dung.nguyentuan1@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Hệ điều hành
+2. Hệ thống và Mạng máy tính
+3. Thiết kế, cài đặt và quản trị Mạng máy tính
+4. Lập trình mạng
+5. Cơ sở dữ liệu nâng cao
+6. Xác suất thống kê
+7. Phương pháp tính
+
+
+Hướng nghiên cứu
+1. Mạng & An ninh mạng
+2. Phần mềm lớp giữa (Middleware)
+3. Dữ liệu lớn và phân tích dữ liệu/học máy
+4. Di động & IoT

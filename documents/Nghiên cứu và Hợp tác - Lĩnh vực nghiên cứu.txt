@@ -1,0 +1,42 @@
+Lĩnh vực nghiên cứu
+Hướng nghiên cứu chung của Viện Toán Ứng dụng và Tin học là các vấn đề thuộc lĩnh vực Toán học, Tin học cũng như những ứng dụng của các lĩnh vực này trong các khoa học khác và trong các vấn đề thực tế của tự nhiên, kinh tế và xã hội. Từng định hướng nghiên cứu cụ thể của Viện không những tập trung giải quyết những vấn đề nội tại của Toán học, Tin học mà còn tập trung vào việc giải quyết các vấn đề của Toán học, Tin học trong mối liên hệ với các khoa học khác và với các vấn đề thực tế. Những định hướng nghiên cứu chính của Viện là:
+- Tối ưu hoá và điều khiển:
+	1. Điều khiển tối ưu
+	2. Tối ưu đa mục tiêu và các vấn đề liên quan
+	3. Tối ưu không lồi, tối ưu rời rạc và tối ưu d.c
+	4. Ứng dụng của tối ưu và điều khiển trong lĩnh vực như kinh tế, tài chính, y sinh, điện tử, viễn thông, giao thông và quản lý tài nguyên,..
+
+
+Hướng nghiên cứu chung của Viện Toán Ứng dụng và Tin học là các vấn đề thuộc lĩnh vực Toán học, Tin học cũng như những ứng dụng của các lĩnh vực này trong các khoa học khác và trong các vấn đề thực tế của tự nhiên, kinh tế và xã hội. Từng định hướng nghiên cứu cụ thể của Viện không những tập trung giải quyết những vấn đề nội tại của Toán học, Tin học mà còn tập trung vào việc giải quyết các vấn đề của Toán học, Tin học trong mối liên hệ với các khoa học khác và với các vấn đề thực tế. Những định hướng nghiên cứu chính của Viện là:
+- Xác suất, thống kê và ứng dụng:
+	1. Phân tích và xử lý số liệu, khai phá dữ liệu
+	2. Mô hình phân tích toán tài chính, phân tích đánh giá rủi ro, kiểm toán
+	3. Quy hoạch thực nghiệm
+	4. Thống kê toán học áp dụng trong sinh học, y học, dân số học, kinh tế, xã hội,…
+
+
+Hướng nghiên cứu chung của Viện Toán Ứng dụng và Tin học là các vấn đề thuộc lĩnh vực Toán học, Tin học cũng như những ứng dụng của các lĩnh vực này trong các khoa học khác và trong các vấn đề thực tế của tự nhiên, kinh tế và xã hội. Từng định hướng nghiên cứu cụ thể của Viện không những tập trung giải quyết những vấn đề nội tại của Toán học, Tin học mà còn tập trung vào việc giải quyết các vấn đề của Toán học, Tin học trong mối liên hệ với các khoa học khác và với các vấn đề thực tế. Những định hướng nghiên cứu chính của Viện là:
+- Mô hình hoá và mô phỏng:
+	1. Xây dựng mô hình và mô phỏng cho các hệ phức tạp trong vật lý, hoá học, sinh học, điện tử, viễn thông, giao thông và quản lí tài nguyên,…
+	2. Xây dựng hệ hỗ trợ quyết định cho các chuyên gia, các nhà hoạch định chính sách, các nhà quản lí trong các lĩnh vực như môi trường, đô thị, giao thông, cảnh báo thiên tai (lũ lụt, động đất, sóng thần,…) và cảnh báo bệnh dịch,…
+	3. Tính toán hiệu năng cao trên các bộ dữ liệu lớn và phức tạp
+
+
+Hướng nghiên cứu chung của Viện Toán Ứng dụng và Tin học là các vấn đề thuộc lĩnh vực Toán học, Tin học cũng như những ứng dụng của các lĩnh vực này trong các khoa học khác và trong các vấn đề thực tế của tự nhiên, kinh tế và xã hội. Từng định hướng nghiên cứu cụ thể của Viện không những tập trung giải quyết những vấn đề nội tại của Toán học, Tin học mà còn tập trung vào việc giải quyết các vấn đề của Toán học, Tin học trong mối liên hệ với các khoa học khác và với các vấn đề thực tế. Những định hướng nghiên cứu chính của Viện là:
+- Giải tích, Phương trình vi phân, hệ động lực và ứng dụng:
+	1. Các phép biến đổi tích phân và ứng dụng
+	2. Bài toán cân bằng và ứng dụng
+	3. Phương trình khuếch tán, phương trình cơ học chất lỏng,…
+	4. Bài toán ngược, điều khiển biên tối ưu cho các luồng khuếch tán và giải số các bài toán thực tế
+
+
+Hướng nghiên cứu chung của Viện Toán Ứng dụng và Tin học là các vấn đề thuộc lĩnh vực Toán học, Tin học cũng như những ứng dụng của các lĩnh vực này trong các khoa học khác và trong các vấn đề thực tế của tự nhiên, kinh tế và xã hội. Từng định hướng nghiên cứu cụ thể của Viện không những tập trung giải quyết những vấn đề nội tại của Toán học, Tin học mà còn tập trung vào việc giải quyết các vấn đề của Toán học, Tin học trong mối liên hệ với các khoa học khác và với các vấn đề thực tế. Những định hướng nghiên cứu chính của Viện là:
+- Toán Tin – lý thuyết và ứng dụng:
+	1. Đồ thị và tổ hợp trên từ
+	2. Ôtômat và thuật toán
+	3. Lý thuyết mã, an toàn thông tin, giấu tin
+	4. Mật mã và mã sửa sai lượng tử, các thuật toán lượng tử cho máy tính lượng tử, truyền thông lượng tử, tính toán lượng tử
+	5. Tìm kiếm mẫu và xử lý ngôn ngữ tự nhiên. Cơ sở dữ liệu
+	6. Hệ thống thông tin địa lý. Xử lý hình học và áp dụng trong các lĩnh vực giảng dạy, giải trí, y sinh, khoa học vật liệu, khoa học máy tính,….
+	7. Khai thác ứng dụng thành tựu Tin học trong nghiên cứu giảng dạy Toán học và các lĩnh vực liên quan.
+Trong hoạt động nghiên cứu, Viện Toán Ứng dụng và Tin học hợp tác chặt chẽ với các đơn vị nghiên cứu Toán học, Tin học trong và ngoài nước như Viện Toán học, Đại học Sư Phạm, Đại học khoa học tự nhiên, Đại học kỹ thuật Graz của Áo, Đại học Rouen của Pháp,…. Bên cạnh đó, Viện cũng có những hợp tác chặt chẽ với các đơn vị nghiên cứu các khoa học khác như Đại học Kinh tế, Đại học Y tế Công Cộng, Viện Nông nghiệp quốc gia của Pháp,….trong những nghiên cứu ứng dụng liên quan.

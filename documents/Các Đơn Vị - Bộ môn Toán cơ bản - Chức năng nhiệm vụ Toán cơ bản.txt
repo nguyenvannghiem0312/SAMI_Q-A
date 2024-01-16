@@ -1,0 +1,10 @@
+Chức năng nhiệm vụ
+- Phụ trách chuyên môn và giảng dạy các môn Toán đại cương như: Giải tích 1, 2, 3 và Đại số;
+- Phụ trách chuyên môn và giảng dạy các môn Toán cơ bản trong chương trình đào tạo đại học chuyên ngành như: Giải tích phức và phép tính toán tử, Biến đổi tích phân, Giải tích hàm, Phương trình vi phân, Phương trình đạo hàm riêng và Đại số;
+- Phụ trách chuyên môn và tham gia giảng dạy các môn thuộc chuyên ngành đào tạo Thạc sỹ Cơ sở Toán học cho Tin học, Toán ứng dụng và các chuyên đề Tiến sỹ các chuyên ngành Lý thuyết xác suất và thống kê toán học, Toán ứng dụng và Cơ sở Toán học cho Tin học (nếu có yêu cầu của Bộ môn phụ trách đào tạo các chuyên ngành tương ứng);
+
+
+Chức năng, nhiệm vụ
+- Đào tạo Tiến sĩ: 02 chuyên ngành:
++) Giải tích (mã số: 62.46.01.02)
++) Phương trình vi phân và tích phân (mã số: 62.46.01.03)

@@ -1,0 +1,17 @@
+Lĩnh vực chuyên môn
+Nghiên cứu cơ bản về toán theo một số định hướng nghiên cứu chính:
+1. Phương trình vi phân và tích phân
+- Phương trình vi phân tuyến tính và phi tuyến trong không gian Banach;
+- Phương trình đạo hàm riêng nửa tuyến tính;
+- Các bài toán điều khiển tối ưu đối với phương trình vi phân và phương trình đạo hàm riêng;
+- Các bài toán xác định hệ số cho phương trình đạo hàm riêng, bài toán ngược,…
+
+
+Nghiên cứu cơ bản về toán theo một số định hướng nghiên cứu chính:
+2. Giải tích
+- Biến đổi tích phân;
+- Giải tích hàm;
+- Giải tích phức;
+- Lý thuyết điểm bất động và các vấn đề liên quan.
+3. Đại số và hình học
+(Cập nhật ngày 04/05/2016)

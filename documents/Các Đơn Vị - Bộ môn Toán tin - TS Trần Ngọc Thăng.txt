@@ -1,0 +1,18 @@
+TS. Trần Ngọc Thăng
+Giảng viên
+Email: thang.tranngoc@hust.edu.vn/ thangtn.fami@gmail.com
+Website: shorturl.at/wyCP5
+
+
+Các môn học đã và đang giảng dạy
+1.  Giải tích 1, Giải tích 2, Xác suất thống kê
+2.  Cơ sở dữ liệu, CSDL nâng cao
+3.  Lập trình hướng đối tượng
+4. Cấu trúc dữ liệu và giải thuật
+5. Học máy, Trí tuệ nhân tạo
+6.  Đồ án - Thực tập
+
+
+Hướng nghiên cứu
+1.  Tối ưu và tính toán khoa học/ Optimization and Scientific Computing
+2.  Khoa học dữ liệu & Trí tuệ nhân tạo/ Data Science & AI

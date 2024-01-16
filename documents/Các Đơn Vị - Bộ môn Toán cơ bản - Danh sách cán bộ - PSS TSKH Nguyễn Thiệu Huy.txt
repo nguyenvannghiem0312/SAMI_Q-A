@@ -1,0 +1,21 @@
+PGS. TSKH. Nguyễn Thiệu Huy
+Giảng viên cao cấp
+Email: huy.nguyenthieu@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Đại số, Giải Tích I, II, III (Chính quy), Toán II (KSCLC)
+2. Algebra, Differential Equations and Infinite Series (CTTT)
+3. Giải Tích hàm, PP Phần Tử hữu hạn (KSTN-Toán-tin)
+
+
+Các môn học đã và đang giảng dạy
+4. Functional Analysis (at University of Tübingen, Germany)
+5. Operator Theory (at University of Tübingen, Germany)
+6. Asymptotic behavior of Evolution Equations (at Technical University of Darmstadt, Germany)
+
+
+Hướng nghiên cứu
+1. Phương trình vi phân tuyến tính và phi tuyến trong không gian Banach, áp dụng vào phương trình đạo hàm riêng hàm
+2. Phương trình đạo hàm riêng nửa tuyến tính, bài toán Cauchy không ôtônôm, đa tạp bất biến, đa tạp quán tính và dáng điệu tiệm cận nghiệm của các phương trình tiến hoá
+3. Nửa nhóm các toán tử, lý thuyết phổ và ứng dụng, phương trình Navier-Stokes và Hệ động lực thủy khí

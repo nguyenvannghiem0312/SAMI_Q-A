@@ -1,0 +1,17 @@
+PGS. TS. Nguyễn Thị Toàn
+Giảng viên
+Email: toan.nguyenthi@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Giải tích 1
+2. Giải tích 2
+3. Phương trình vi phân và chuỗi
+4. Điều khiển tối ưu
+5. Độ đo tích phân
+6. Tô pô đại cương
+
+
+Hướng nghiên cứu
+1. Giải tích biến phân và giải tích đa trị (đối đạo hàm của ánh xạ đa trị, dưới vi phân của hàm giá trị tối ưu trong bài toán quy hoạch toán học với ràng buộc đatrị, đối đạo hàm của toán tử nón pháp tuyến, tính chính quy metric của hàm ẩn đa trị, tính liên tục Aubin của hàm ẩn đa trị, …).
+2. Lý thuyết điều khiển tối ưu (Dưới vi phân của hàm giá trị, các tính chất liên tục của ánh xạ nghiệm và các điều kiện cực trị trong các bài toán điều khiển tối ưu rời rạc cũng như bài toán điều khiển tối ưu liên tục…).

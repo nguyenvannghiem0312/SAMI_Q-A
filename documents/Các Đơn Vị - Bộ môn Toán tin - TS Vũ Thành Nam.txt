@@ -1,0 +1,18 @@
+TS. Vũ Thành Nam
+Trưởng bộ môn Toán Tin
+Email: nam.vuthanh@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Giải tích 1
+2. Hệ điều hành UNIX và mã nguồn mở
+3. Hệ thống và mạng máy tính
+4. An toàn máy tính
+5. Kỹ thuật lập trình
+6. Nguyên lý các ngôn ngữ lập trình
+
+
+Hướng nghiên cứu
+1. Mã hóa bảo mật
+2. Lý thuyết mã
+3. CNTT

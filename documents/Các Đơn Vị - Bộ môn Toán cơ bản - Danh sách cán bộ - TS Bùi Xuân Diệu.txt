@@ -1,0 +1,19 @@
+TS. Bùi Xuân Diệu
+Giảng viên chính
+Email: dieu.buixuan@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Đại số
+2. Giải tích 1
+3. Giải tích 2
+4. Giải tích 3
+5. Math 1-2-3-4 (Chương trình Việt Nhật)
+6. Toán 1 (Chương trình CLC)
+7. Giải tích hàm
+
+
+Hướng nghiên cứu
+1. Dáng điệu tiệm cận của phương trình vi phân (Asymptotic behavior of solutions of differential equations).
+2. Lý thuyết nửa nhóm, lý thuyết phổ của hàm số (Semigroups theory, Spectral theory of functions).
+3. Phương trình vi phân hầu tuần hoàn, hầu tự đồng hình  (Almost periodic and Almost automorphic differential equations).

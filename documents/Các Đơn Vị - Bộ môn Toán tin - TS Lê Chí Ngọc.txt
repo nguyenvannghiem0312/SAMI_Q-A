@@ -1,0 +1,60 @@
+TS. Lê Chí Ngọc
+Giảng viên
+
+
+Các môn học đã và đang giảng dạy
+1. Đại số tuyến tính
+2. Giải tích 1
+3. Giải tích 2
+4. Phương trình vi phân-chuỗi
+5. Xác suất thống kê
+
+
+Các môn học đã và đang giảng dạy
+6. Toán 1 (Chương trình Kỹ sư Chất lượng cao)
+7. Math 1 (Chương trình Việt Nhật - ICT)
+8. Linear Algebra (Chương trình tiên tiến Đại học Bách Khoa Hà Nội và Chương trình tiên tiến Đại học Kỹ thuật Công nghiệp, Đại học Thái Nguyên)
+9. Math II (Multivariate Calculus - Chương trình tiên tiến Đại học Bách Khoa Hà Nội và Chương trình tiên tiến Đại học Kỹ thuật Công nghiệp, Đại học Thái Nguyên)
+10. Math III (Series and ODE - Chương trình tiên tiến Đại học Kỹ thuật Công nghiệp, Đại học Thái Nguyên)
+
+
+Các môn học đã và đang giảng dạy
+11. Math 31A (Diferential and Integral Calculus, Đại học Tổng hợp California, Los Angeles)
+12. Math 31B (Integration and Infinite Series, Đại học Tổng hợp California, Los Angles)
+13. Math 32A (Calculus of Several Variables, Đại học Tổng hợp California, Los Angeles)
+14. Math 32B (Calculus of Several Variables, Đại học Tổng hợp California, Los Angeles)
+
+
+Các môn học đã và đang giảng dạy
+15. Toán rời rạc
+16. Logic Thuật toán
+17. Tối ưu
+18. Tối ưu tổ hợp
+19. Cơ sở toán học của hệ mờ
+
+
+Các môn học đã và đang giảng dạy
+20. Phương pháp tính
+21. Hệ Hỗ trợ quyết định
+22. Khai phá dữ liệu
+23. Kho dữ liệu và kinh doanh thông minh
+24. Dữ liệu lớn
+
+
+Các môn học đã và đang giảng dạy
+25. Cấu trúc dữ liệu, giải thuật nâng cao và tính toán song song
+26. SQL
+27. Đồ họa máy tính
+28. Visual Basic
+29. Ngôn ngữ lập trình C#
+30. Phân tích và thiết kế hệ thống
+
+
+Hướng nghiên cứu
+1. Logic Toán (Hệ chứng minh, tính quyết định được và độ phức tạp tính toán)
+2. Tối ưu tổ hợp (Độ phức tạp tính toán, Matroid, Các phương pháp xấp xỉ, Metaheuristics,...)
+3. Lý thuyết đồ thị (Tập độc lập, tập thống trị, các bài toán tối ưu trên đồ thị, tô màu đồ thị, đồ thị cảm sinh, ...)
+4. Lý thuyết mờ (Toán tử mờ, Tập mờ bức tranh, Đại số trên tập mờ, ...)
+5. Khoa học dữ liệu (Khai phá dữ liệu, ứng dụng công nghệ mờ trong khai phá dữ liệu, Dữ liệu lớn, kho dữ liệu, ...)
+6. Tính toán thông minh (Máy học, Metaheuristic, Mạng Neural, Nhận dạng, ...)
+7. An toàn và bảo mật máy tính (Hàm một chiều, giải thuật mã hóa xác suất, chữ ký số và xác thực thông tin, ...)

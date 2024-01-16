@@ -1,0 +1,13 @@
+Sinh viên Toán-Tin được học gì trong chương trình đào tạo?
+
+
+Chương trình đào tạo cử nhân và kỹ sư chuyên ngành Toán -Tin hướng tới việc rèn luyện cho sinh viên tư duy chính xác của toán học, tư duy thuật toán và phương pháp tiếp cận khoa học để giải quyết  các vấn đề nảy sinh từ các lĩnh vực của khoa học công nghệ và đời sống  như: Bảo mật, truyền thông, kinh tế, tài chính, tính toán khoa học và mô phỏng, công nghiệp, nông nghiệp, thủy lợi, địa chất, xây dựng, giao thông, thiên văn, khoa học giáo dục, giải trí,…
+Sinh viên Viện Toán ứng dụng và Tin học được trang bị các kiến thức cơ bản và chuyên sâu về toán và tin học để có thể tiếp tục nghiên cứu sâu về Toán ứng dụng và  Khoa học Máy tính – một chuyên ngành chuyên sâu của ngành Công nghệ Thông tin, cụ thể:
+- Kiến thức cơ bản và chuyên sâu về toán học, toán học ứng dụng để có thể tiếp tục nghiên cứu chuyên sâu về toán, toán ứng dụng như giải tích hàm, đại số đại cương, xác suất thống kê, các phương pháp tối ưu, toán tài chính, phương trình đạo hàm riêng, giải tích phức, điều khiển tối ưu, phân tích số liệu, mô hình mô phỏng các hệ sinh thái,…
+- Kiến thức và kỹ năng thực hành về khoa học máy tính như  kỹ thuật  lập trình, hệ điều hành, cơ sở dữ liệu, cấu trúc dữ liệu và giải thuật, phân tích và thiết kế hệ thống, mật mã và độ phức tạp tính toán, an toàn máy tính, đồ họa máy tính, mạng và hệ thống máy tính, lập trình 3D,…
+
+
+Ngoài ra, sinh viên còn được rèn luyện các kỹ năng mềm như:
+- Kỹ năng tổ chức, lãnh đạo và làm việc độc lập cũng như làm việc theo nhóm đa ngành;
+- Khả năng thích ứng được với sự thay đổi của khoa học tính toán và công nghệ;
+- Khả năng tư duy độc lập sáng tạo, khả năng tự tìm động lực học tập và làm việc cho bản thân.

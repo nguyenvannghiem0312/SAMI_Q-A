@@ -1,0 +1,20 @@
+TS. Phạm Thị Hoài
+Giảng viên
+Email: hoai.phamthi@hust.edu.vn
+
+Các môn học đã và đang giảng dạy
+1. Giải tích I
+2. Giải tích III
+3. Infinite series and differential equations
+4. Nhập môn lí thuyết tối ưu
+5. Các phương pháp tối ưu
+6. Toán kinh tế
+
+
+Hướng nghiên cứu
+1. Continuous and discrete Optimization
+2. Monotonic Optimization, Mutiobjective Optimization and applications
+3. Convex and nonconvex programming and applications
+4. Optimization for machine learning and deep learning
+5. Bilevel optimization and applications
+6. Variational inequality and stochastic programming

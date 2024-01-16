@@ -1,0 +1,18 @@
+TS. Nguyễn Thị Thanh Huyền
+Giảng viên chính
+Email: huyen.nguyenthithanh@hust.edu.vn
+
+
+Các môn học đã và đang giảng dạy
+1. Cơ sở dữ liệu
+2. Cơ sở dữ liệu nâng cao
+3. Kĩ thuật lập trình
+4. Cấu trúc dữ liệu và giải thuật
+5. Phương pháp tính
+6. Toán rời rạc
+
+
+Hướng nghiên cứu
+1. Hệ thống Cơ sở dữ liệu
+2. Đối sánh mẫu chính xác và xấp xỉ
+3. Trích rút văn bản

@@ -1,0 +1,38 @@
+Lĩnh vực chuyên môn
+Nghiên cứu các vấn đề lý thuyết, ứng dụng và công nghệ trong lĩnh vực cơ sở toán cho tin học, khoa học máy tính. Một số định hướng nghien cứu chính:
+1. Tính toán mềm và tính toán hiệu năng cao
+- Nghiên cứu về các phương pháp tính toán mềm như mạng Nơ-ron, tính toán mô phỏng các quá trình tự nhiên;
+- Nghiên cứu về các phương pháp tính toán hiệu năng cao, các phương pháp sử dụng nhiều nguồn tài nguyên tính toán đồng thời, tính toán song song, đa luồng, siêu phân luồng và tính toán đa nhiệm;
+- Tính toán lượng tử.
+
+
+Nghiên cứu các vấn đề lý thuyết, ứng dụng và công nghệ trong lĩnh vực cơ sở toán cho tin học, khoa học máy tính. Một số định hướng nghien cứu chính:
+2. Toán rời rạc, lý thuyết tổ hợp và lý thuyết đồ thị
+- Nghiên cứu các cấu trúc tổ hợp xuất hiện trong ngữ cảnh đại số hoặc áp dụng các kỹ thuật đại số trong các bài toán tổ hợp;
+- Nghiên cứu về cấu trúc đồ thị, cấu trúc toán học dùng mô tả quan hệ giữa các đối tượng;
+- Nghiên cứu về các bài toán tối ưu trên đồ thị, các giải thuật tham số hóa, thuật toán xấp xỉ, các tính chất cấu trúc trên đồ thị, các tham số của đồ thị,…
+
+
+Nghiên cứu các vấn đề lý thuyết, ứng dụng và công nghệ trong lĩnh vực cơ sở toán cho tin học, khoa học máy tính. Một số định hướng nghien cứu chính:
+3. Lý thuyết mã, bảo mật và an ninh thông tin
+- Lý thuyết mã độ dài biến đổi;
+- Nghiên cứu về các hệ mật, thám mã và chống thám mã;
+- Nghiên cứu các nguy cơ và xây dựng các giải pháp trong an toàn, an ninh thông tin;
+- Giấu tin và ứng dụng;
+
+
+Nghiên cứu các vấn đề lý thuyết, ứng dụng và công nghệ trong lĩnh vực cơ sở toán cho tin học, khoa học máy tính. Một số định hướng nghien cứu chính:
+4. Khoa học dữ liệu
+- Dữ liệu lớn, kho dữ liệu, khai phá dữ liệu và khám phá tri thức, học máy;
+- Các cấu trúc dữ liệu lớn và/hoặc phức tạp mà các phương pháp xử lý dữ liệu truyền thống tỏ ra không thích hợp;
+- Các vấn đề liên quan đến khai phá dữ liệu;
+- Các vấn đề tìm kiếm (chính xác, xấp xỉ), trích rút thông tin.
+
+
+Nghiên cứu các vấn đề lý thuyết, ứng dụng và công nghệ trong lĩnh vực cơ sở toán cho tin học, khoa học máy tính. Một số định hướng nghien cứu chính:
+5. Logic toán và lý thuyết tập hợp
+- Nghiên cứu về các ứng dụng của logic hình thức trong toán học và lý thuyết khoa học máy tính;
+- Nghiên cứu về lý thuyết tập hợp sử dụng các quan điểm của logic toán;
+- Nghiên cứu về lý thuyết mô hình, lý thuyết nghiên cứu về các cấu trúc toán học như nhóm, vành, trường hay các cấu trúc đại số khác, đồ thị hay các cấu trúc rời rạc khác sử dụng các công cụ của logic toán;
+- Nghiên cứu về lý thuyết tính toán sử dụng các công cụ của logic toán, máy Turing, các vấn đề về tính quyết định được một các thuật toán, phép dẫn đa thức và độ phức tạp tính toán.
+6. Đồ họa máy tính và đa phương tiện

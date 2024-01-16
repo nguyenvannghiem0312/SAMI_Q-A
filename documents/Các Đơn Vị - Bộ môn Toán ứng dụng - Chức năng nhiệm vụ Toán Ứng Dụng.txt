@@ -1,0 +1,12 @@
+Chức năng, nhiệm vụ
+- Phụ trách chuyên môn và giảng dạy các môn học định hướng Toán ứng dụng trong chương trình đào tạo đại học chuyên ngành Toán-Tin;
+- Phụ trách chuyên môn và giảng dạy các môn: Phương pháp tính, Phương pháp tính và Matlab, Xác suất thống kê (tất cả các chương trình đào tạo), Xác xuất thống kê và Tín hiệu ngẫu nhiên, Xác suất thống kê và quy hoạch thực nghiệm, Toán kinh tế, Tối ưu;
+- Tham gia giảng dạy các môn Giải tích 1, Giải tích 2, Giải tích 3, Đại số;
+- Phụ trách chuyên môn và tham gia giảng dạy các môn thuộc chuyên ngành đào tạo Thạc sỹ Cơ sở Toán học của Tin học và các chuyên đề Tiến sỹ các chuyên ngành Giải tích, Phương trình vi phân tích phân và Cơ sở Toán học của Tin học (nếu có yêu cầu của Bộ môn phụ trách đào tạo các chuyên ngành tương ứng);
+
+
+Chức năng, nhiệm vụ
+- Đào tạo Thạc sĩ chuyên ngành Toán ứng dụng (mã số 60.46.01.12);
+- Đào tạo Tiến sĩ: 02 chuyên ngành:
++) Lý thuyết xác suất và thống kê toán học (mã số 62.46.15.01),
++) Toán ứng dụng (mã số 62.46.01.12).

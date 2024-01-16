@@ -1,0 +1,18 @@
+TS. Ngô Thị Hiền
+
+
+Các môn học đã và đang giảng dạy
+1. Xác suất thống kê
+2. Phương pháp tính
+3. Tối ưu hóa
+4. Kỹ thuật lập trình
+5. Lý thuyết Otomat và ngôn ngữ hình thức
+6. Mật mã và độ phức tạp thuật toán
+
+
+Hướng nghiên cứu
+1. Lý thuyết mã và ứng dụng
+2. Ngôn ngữ hình thức
+3. Lý thuyết ôtômát
+4. An toàn và bảo mật thông tin
+4. Trí tuệ nhân tạo
