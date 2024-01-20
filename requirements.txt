@@ -3,3 +3,5 @@ json
 pandas
 datasets
 openai
+sentence-transformers
+tourch

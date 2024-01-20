@@ -1,16 +1,30 @@
 import os
 import json
+from typing import Any
 from tqdm import tqdm
 import sys
+import stat
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from pyvi.ViTokenizer import tokenize
+import torch
+import pickle
 
 class CorpusProcessor:
-    def __init__(self, data_dir="documents/", output_file="documents_chunk/", chunk_size=None, window_size=None):
+    def __init__(self, data_dir: str="documents/", 
+                 output_dir: str="documents_chunk/documents_chunk.json", 
+                 chunk_size=None, 
+                 window_size=None,
+                 model_embedding=None,
+                 output_embedding_dir: str="documents_embedding/documents_embedding.pkl"):
         self.data_dir = data_dir
-        self.output_dir = output_file
+        self.output_dir = output_dir
         self.corpus = []
         self.meta_corpus = []
         self.chunk_size = chunk_size
         self.window_size = window_size
+        self.model_embedding = model_embedding
+        self.output_embedding_dir = output_embedding_dir
 
     def split_text_into_chunks(self, text):
         words = text.split()
@@ -59,25 +73,60 @@ class CorpusProcessor:
                 self.corpus.extend(chunks)
 
     def save_corpus_to_files(self):
-        with open(output_file, "w+", encoding="utf8") as outfile:
+        with open(self.output_dir, "w+", encoding="utf8") as outfile:
             for chunk in self.meta_corpus:
                 d = json.dumps(chunk, ensure_ascii=False) + "\n"
                 outfile.write(d)
 
+    def embedding(self):
+        model = SentenceTransformer(self.model_embedding)
+        if torch.cuda.is_available() == True:
+           model.cuda()
+        segmented_corpus = [tokenize(example["chunk"]) for example in tqdm(self.meta_corpus)]
+        segmented_corpus = [example["chunk"] for example in tqdm(self.meta_corpus)]
+        embeddings = model.encode(segmented_corpus)
+        embeddings /= np.linalg.norm(embeddings, axis=1)[:, np.newaxis]
+
+
+        with open(self.output_embedding_dir, 'wb+') as f:
+            pickle.dump(embeddings, f)    
+
+    def fit(self):
+        print("-----------------------------------------------------------------")
+        print("-------------------Read the corpus and chunk--------------------")
+        print("-----------------------------------------------------------------")
+        self.get_corpus()
+        print(f"---> Read the corpus succesfull, corpus has {len(self.meta_corpus)} chunks. Now save the corpus.")
+        self.save_corpus_to_files()
+        print("---> Save corpus sucessfull.")
+
+        if self.model_embedding != None:
+            print("---------------------------------------------------------------------")
+            print("---------Now, loading the embedding model and text embedding---------")
+            print("---------------------------------------------------------------------")
+            self.embedding()
+            print("---> Text embedding sucessfull.")
+        else:
+            print("Warning: You have no embeding model.")
+
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3 or (len(sys.argv) > 3 and len(sys.argv) < 5):
-        print("Usage: python script.py <data_dir> <output_file> <chunk_size> <window_size>")
-        print("Or usage: python script.py <data_dir> <output_file>")
-        sys.exit(1)
+    # if len(sys.argv) < 3 or (len(sys.argv) > 3 and len(sys.argv) < 5):
+    #     print("Usage: python script.py <data_dir> <output_file> <chunk_size> <window_size> <model_embedding> <output_embedding>")
+    #     print("Or usage: python script.py <data_dir> <output_file>")
+    #     sys.exit(1)
         
-    data_dir = sys.argv[1]
-    output_file = sys.argv[2]
-    chunk_size = window_size = None
-    if len(sys.argv) == 5:
-        chunk_size = sys.argv[3]
-        window_size = sys.argv[4]
+    # data_dir = sys.argv[1]
+    # output_file = sys.argv[2]
+    # chunk_size = window_size = None
+    # if len(sys.argv) == 5:
+    #     chunk_size = sys.argv[3]
+    #     window_size = sys.argv[4]
 
-    corpus_processor = CorpusProcessor(data_dir, output_file, chunk_size, window_size)
-    corpus_processor.get_corpus()
-    corpus_processor.save_corpus_to_files()
+    corpus_processor = CorpusProcessor(data_dir='documents/', 
+                                       output_dir='documents_chunk/documents_chunk.json',
+                                       chunk_size=None,
+                                       window_size=None, 
+                                       model_embedding='model/bi-encoder-2epochs',
+                                       output_embedding_dir='documents_chunk/documents_embedding.pkl')
+    corpus_processor.fit()
