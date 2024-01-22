@@ -127,6 +127,6 @@ if __name__ == "__main__":
                                        output_dir='documents_chunk/documents_chunk.json',
                                        chunk_size=None,
                                        window_size=None, 
-                                       model_embedding='model/bi-encoder-2epochs',
-                                       output_embedding_dir='documents_chunk/documents_embedding.pkl')
+                                       model_embedding='model/bi-encoder',
+                                       output_embedding_dir='documents_chunk/documents_embedding_base.pkl')
     corpus_processor.fit()

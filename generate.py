@@ -10,9 +10,11 @@ class GenerateModel:
     ###
     def __init__(self,
                  model_path: str = 'model/vinallama/vinallama-7b-chat_q5_0.gguf',
-                 prompt:str=None #SEALLM, VINALLAMA
-                 ) :
+                 prompt:str='VINALLAMA', #SEALLM, VINALLAMA,
+                 hallucination:bool=True) :
         
+        self.hallucination = hallucination
+
         print("---------------------------------------------------------------------")
         print("-------------------------Loading the LLM-----------------------------")
         print("---------------------------------------------------------------------")
@@ -51,11 +53,13 @@ class GenerateModel:
             Bạn là một trợ lí AI hữu ích. Hãy trả lời người dùng một cách chính xác.
             <|im_end|>
             <|im_start|>user
-            {question}
+            Hãy trả lời câu hỏi dưới đây bằng cách sử dụng thông tin có trong ngữ cảnh mà tôi cung cấp.
+            Câu hỏi: "{question}"
+            Ngữ cảnh: "{context}"
             <|im_end|>
             <|im_start|>assistant
             """
-    def __call__(self, question, context = None, temperature=0) -> Any:
+    def __call__(self, question, context = None, temperature=0, max_length=1024) -> Any:
         if context != None:
             input_prompt = self.prompt.format_map(
                 {
@@ -67,25 +71,27 @@ class GenerateModel:
             input_prompt = self.prompt_no_context.format_map(
                 {
                 "question": question,
+                "context": context
                 }
             )
         start = time.time()
         output = self.llm(
             input_prompt,
             temperature=temperature,
-            max_tokens=1024,
+            max_tokens=max_length,
             stop=["Q:", "\n\n", "\n\n \n\n", "\n \n"],
             echo=False
         )
         answer = output['choices'][0]['text']
         finish_reason = output['choices'][0]['finish_reason']
 
-        if answer == "Tôi không có thông tin về câu hỏi này":
-            print("--> Do not find the context. Then answet with no context.\n\n")
+        if answer == " Tôi không có thông tin về câu hỏi này." and self.hallucination == True:
+            # print("--> Do not find the context. Then answer with no context.\n\n")
             output = self.llm(
                 self.prompt_no_context.format_map(
                 {
                 "question": question,
+                "context": context
                 }
                 ),
                 temperature=temperature,

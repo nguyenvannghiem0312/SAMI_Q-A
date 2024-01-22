@@ -1,0 +1,105 @@
+answer,label_answer,time,rouge1,rouge2,rougeL
+" Các môn Toán đại cương mà Bộ môn Toán cơ bản phụ trách giảng dạy là Giải tích 1, 2, 3 và Đại số."," Giải tích 1, 2, 3 và Đại số;",43.2,0.4347826086956522,0.40909090909090906,0.4347826086956522
+" Bộ môn Toán cơ bản giảng dạy những môn Toán cơ bản như Giải tích phức và phép tính toán tử, Biến đổi tích phân, Giải tích hàm, Phương trình vi phân, Phương trình đạo hàm riêng và Đại số trong chương trình đào tạo đại học chuyên ngành.","Giải tích phức và phép tính toán tử, Biến đổi tích phân, Giải tích hàm, Phương trình vi phân, Phương trình đạo hàm riêng và Đại số;",37.49,0.7131782945736435,0.7086614173228347,0.7131782945736435
+ Có hai chuyên ngành đào tạo Tiến sĩ trong Bộ môn Toán cơ bản. Chúng là Giải tích (mã số: 62.46.01.02) và Phương trình vi phân và Tích phân (mã số: 62.46.01.03).,Đào tạo Tiến sĩ: 02 chuyên ngành,21.35,0.34375000000000006,0.25806451612903225,0.28125
+" Tên của hai chuyên ngành Tiến sĩ mà Bộ môn Toán cơ bản đào tạo là ""Giải tích"" và ""Phương trình vi phân và tích phân"".","+) Giải tích (mã số: 62.46.01.02)
++) Phương trình vi phân và tích phân (mã số: 62.46.01.03)",17.72,0.5428571428571429,0.411764705882353,0.4571428571428571
+ Có 2 chuyên ngành Tiến sĩ thuộc Bộ môn Toán cơ bản., 02,14.66,0.0,0.0,0.0
+" Dựa trên ngữ cảnh được cung cấp, nghề nghiệp chính của PGS TS Nguyễn Công Minh là Giảng viên cao cấp.","
+Giảng viên cao cấp",25.2,0.35,0.3157894736842105,0.35
+ Cấp bậc giảng viên của PGS TS Nguyễn Công Minh là Giảng viên cao cấp.,"
+Giảng viên cao cấp",31.11,0.43750000000000006,0.4,0.43750000000000006
+" Email liên lạc của PGS TS Nguyễn Công Minh là ""viện@hust.edu.vn"".", minh.nguyencong@hust.edu.vn,19.77,0.32000000000000006,0.17391304347826086,0.32000000000000006
+ PGS TS Nguyễn Công Minh nhận được grant for senior researcher tại Vietnam Institute for Advanced Study in Mathematics vào ngày 01 tháng 3 năm 2017., 01/03-31/07/2016;,22.94,0.05128205128205128,0.0,0.05128205128205128
+ Cơ quan đã cấp grant cho PGS TS Nguyễn Công Minh là Viện nghiên cứu toán cao cấp Việt Nam.," Vietnam Institute for Advanced Study in Mathematics,",40.9,0.0,0.0,0.0
+" Tính đến thời điểm ngày 30 tháng 7 năm 2023, PGS TS Nguyễn Công Minh đã nhận được grant for senior researcher tại Vietnam Institute for Advanced Study in Mathematics.", 01/03-31/07/2016;,47.37,0.0,0.0,0.0
+ Các môn học đã và đang giảng dạy của PGS TS Nguyễn Công Minh là:,"1. Đại số tuyến tính
+2. Cấu trúc cơ bản của Đại số
+3. Lí thuyết Galois
+4. Cơ sở lí thuyết số
+5. Cơ sở lí thuyết module
+6. Nhập môn đại số giao hoán
+7. Nhập môn lí thuyết số giải tích
+8. Nhập môn đại số giao hoán tổ hợp",24.82,0.25,0.0851063829787234,0.14583333333333334
+ Câu trả lời là: Lĩnh vực nghiên cứu chính của PGS TS Nguyễn Công Minh là Đại số giao hoán tương giao với tổ hợp.,"Hướng nghiên cứu
+1. Lĩnh vực nghiên cứu chính là Đại số giao hoán tương giao với tổ hợp:
+2. Các cấu trúc đại số cũng như các bất biến số liên quan đến ideal đơn thức;
+3. Các cấu trúc tổ hợp liên quan đến phức đơn hình; lí thuyết đồ thị hoặc siêu đồ thị.",34.66,0.528,0.43902439024390244,0.416
+ TS. Nguyễn Cảnh Lương là giảng viên cao cấp và Nhà giáo ưu tú tại Đại học Quốc gia Hà Nội.,"Giảng viên cao cấp, Nhà giáo ưu tú",21.32,0.5454545454545454,0.4761904761904761,0.5454545454545454
+" Email liên lạc của PGS TS Nguyễn Cảnh Lương là ""luong.nguyencanh@hust.edu.vn"".",luong.nguyencanh@hust.edu.vn,14.9,0.3846153846153846,0.33333333333333337,0.3846153846153846
+ PGS TS Nguyễn Cảnh Lương đang giảng dạy các môn học sau:,"Các môn học đã và đang giảng dạy
+1. Đại số
+2. Phương trình vi phân và chuỗi
+3. Giai tích 1
+4. Giải tích 2
+5. Cơ sở Dự liệu và Thuật toán
+6. Kỹ thuật Lập trình
+7. Phân tích và Thiết kế hệ thống",17.29,0.3636363636363636,0.20930232558139533,0.22727272727272727
+ TS. Nguyễn Duy Tân là giảng viên cao cấp.,Giảng viên cao cấp,12.74,0.6666666666666666,0.631578947368421,0.6666666666666666
+" Email liên lạc của PGS TS Nguyễn Duy Tân là ""tan.nguyenduy (at) hust.edu.vn"".",tan.nguyenduy (at) hust.edu.vn,15.89,0.4444444444444445,0.4,0.4444444444444445
+" Thuộc đơn vị mà PGS TS Nguyễn Duy Tân làm việc là ""Bộ môn Toán cơ bản"".",Bộ môn Toán cơ bản,27.93,0.48484848484848486,0.45161290322580644,0.48484848484848486
+" PGS TS Nguyễn Duy Tân đã nhận giải Ba và giải Nhì kỳ thi HSG Quốc gia môn Toán dành cho HS PTTH (1997, 1998 ).", Giải Ba và giải Nhì,35.56,0.35,0.3157894736842105,0.35
+ PGS TS Nguyễn Duy Tân đạt danh hiệu Thủ khoa xuất sắc tốt nghiệp đại học năm 2003., 2003,26.61,0.07142857142857142,0.0,0.07142857142857142
+ PGS TS Nguyễn Duy Tân được vinh danh bởi Giải thưởng Khoa học Viện Toán học năm 2017., Giải thưởng Khoa học Viện Toán học 2017.,26.16,0.6666666666666666,0.6,0.6666666666666666
+ PGS TS Nguyễn Duy Tân đang giảng dạy các môn học sau:,"Các môn học đã và đang giảng dạy
+1. Đại số, Giải tích II, Đại số tuyến tính
+2. Đại số đại cương, Lý thuyết Galois, Lý thuyết số đại số, Lý thuyết biểu diễn nhóm hữu hạn",29.61,0.37837837837837834,0.25,0.24324324324324323
+" Dựa trên ngữ cảnh được cung cấp, PGS TS Nguyễn Duy Tân hướng nghiên cứu về ""Đại số và Lý thuyết số"".","
+Đại số và Lý thuyết số",30.4,0.358974358974359,0.3243243243243243,0.358974358974359
+ Câu trả lời: PGS TS Nguyễn Thị Toàn có vị trí làm việc là giảng viên trong Bộ môn Toán cơ bản tại Đại học Quốc gia Hà Nội (HUST).,Giảng viên,35.01,0.163265306122449,0.1276595744680851,0.163265306122449
+ Email liên lạc của PGS TS Nguyễn Thị Toàn là toan.nguyenthi@hust.edu.vn., toan.nguyenthi@hust.edu.vn,21.88,0.4,0.34782608695652173,0.4
+" Dựa trên ngữ cảnh được cung cấp, PGS TS Nguyễn Thị Toàn đang giảng dạy các môn học sau:","Các môn học đã và đang giảng dạy
+1. Giải tích 1
+2. Giải tích 2
+3. Phương trình vi phân và chuỗi
+4. Điều khiển tối ưu
+5. Độ đo tích phân
+6. Tô pô đại cương",17.48,0.4470588235294118,0.21686746987951805,0.23529411764705885
+" PGS TS Nguyễn Thị Toàn hướng nghiên cứu về Giải tích biến phân và giải tích đa trị, cũng như Lý thuyết điều khiển tối ưu.","Hướng nghiên cứu
+1. Giải tích biến phân và giải tích đa trị (đối đạo hàm của ánh xạ đa trị, dưới vi phân của hàm giá trị tối ưu trong bài toán quy hoạch toán học với ràng buộc đatrị, đối đạo hàm của toán tử nón pháp tuyến, tính chính quy metric của hàm ẩn đa trị, tính liên tục Aubin của hàm ẩn đa trị, …).
+2. Lý thuyết điều khiển tối ưu (Dưới vi phân của hàm giá trị, các tính chất liên tục của ánh xạ nghiệm và các điều kiện cực trị trong các bài toán điều khiển tối ưu rời rạc cũng như bài toán điều khiển tối ưu liên tục…).",54.18,0.3261802575107296,0.2857142857142857,0.2918454935622318
+ TS. Nguyễn Xuân Thảo là Nguyên Trưởng bộ môn Toán cơ bản trong Bộ môn Toán tại Đại học Quốc gia Hà Nội.,Nguyên Trưởng bộ môn Toán cơ bản,21.84,0.489795918367347,0.46808510638297873,0.489795918367347
+ Email liên lạc của PGS TS Nguyễn Xuân Thảo là thao.nguyenxuan@hust.edu.vn., thao.nguyenxuan@hust.edu.vn,14.86,0.3846153846153846,0.33333333333333337,0.3846153846153846
+" Dựa trên ngữ cảnh được cung cấp, Bộ môn Toán cơ bản thuộc đơn vị ""Cán bộ"".",Bộ môn Toán cơ bản,25.99,0.47058823529411764,0.43750000000000006,0.47058823529411764
+" Dựa trên ngữ cảnh được cung cấp, PGS TS Nguyễn Xuân Thảo đang giảng dạy các môn học sau:","Các môn học đã và đang giảng dạy
+1. Giải tích 1
+2. Giải tích 2
+3. Giải tích 3
+4. Phép biến đổi tích phân",22.16,0.3943661971830986,0.2608695652173913,0.2535211267605634
+ Câu trả lời: 1. Hướng nghiên cứu,"Chuyên đề
+1. Hướng nghiên cứu
+2. Phép biến đổi tích phân
+3. Các hàm đặc biệt",23.06,0.46153846153846156,0.3243243243243243,0.358974358974359
+ TS. Ninh Văn Thu giữ vị trí Giảng viên cao cấp trong Bộ môn Toán cơ bản.,"
+Giảng viên cao cấp",22.89,0.45161290322580644,0.41379310344827586,0.45161290322580644
+" Bạn có thể liên lạc với PGS TS Ninh Văn Thu bằng cách gửi email đến địa chỉ email của ông ấy, thu.ninhvan@hust.edu.vn.","
+Email: thu.ninhvan@hust.edu.vn",17.01,0.2857142857142857,0.19999999999999998,0.2857142857142857
+" Email liên lạc của PGS TS Ninh Văn Thu là ""thu.ninhvan@hust.edu.vn"".", thu.ninhvan@hust.edu.vn,14.7,0.4166666666666667,0.3636363636363636,0.4166666666666667
+" PGS.TS Ninh Văn Thu giảng dạy các môn học sau đây:
+             - Giải tích I, II, III
+             - Giải tích phức","Các môn học đã và đang giảng dạy
+- Giải tích I, II, III
+- Giải tích phức",29.46,0.8571428571428571,0.7777777777777777,0.7142857142857142
+" Dựa trên ngữ cảnh được cung cấp, PGS TS Ninh Văn Thu tập trung nghiên cứu vào ""Giải tích phức nhiều biến.""", Giải tích phức nhiều biến,29.9,0.4347826086956522,0.40909090909090906,0.4347826086956522
+ GS. TSKH. Nguyễn Thiệu Huy giữ vị trí Giảng viên cao cấp trong Bộ môn Toán cơ bản tại Đại học Quốc gia Hà Nội (HUST).,"
+Giảng viên cao cấp",37.37,0.3111111111111111,0.27906976744186046,0.3111111111111111
+" Email liên lạc của GS. TSKH. Nguyễn Thiệu Huy là ""huy.nguyenthieu@hust.edu.vn"".", huy.nguyenthieu@hust.edu.vn,22.48,0.4,0.34782608695652173,0.4
+ GS. TSKH. Nguyễn Thiệu Huy có vai trò là giảng viên cao cấp trong Bộ môn Toán cơ bản tại Đại học Quốc gia Hà Nội (HUST).,"
+Giảng viên cao cấp",30.86,0.30434782608695654,0.2727272727272727,0.30434782608695654
+ GS. TSKH. Nguyễn Thiệu Huy giảng dạy các môn học sau trong Bộ môn Toán cơ bản:,"Các môn học đã và đang giảng dạy
+1. Đại số, Giải Tích I, II, III (Chính quy), Toán II (KSCLC)
+2. Algebra, Differential Equations and Infinite Series (CTTT)
+3. Giải Tích hàm, PP Phần Tử hữu hạn (KSTN-Toán-tin)",27.91,0.4096385542168675,0.2222222222222222,0.2650602409638554
+" GS. TSKH. Nguyễn Thiệu Huy giảng dạy Đại số, Giải Tích I, II và III trong chương trình CTTT."," Algebra, Differential Equations and Infinite Series",38.21,0.0,0.0,0.0
+" TSKH. Nguyễn Thiệu Huy giảng dạy các môn học sau tại Đại học Tübingen, Đức:","4. Functional Analysis (at University of Tübingen, Germany)
+5. Operator Theory (at University of Tübingen, Germany)",29.2,0.13953488372093023,0.048780487804878044,0.13953488372093023
+ Môn học Functional Analysis được giảng dạy bởi GS. TSKH. Nguyễn Thiệu Huy tại Đại học Tübingen ở Đức.,"University of Tübingen, Germany",35.79,0.12121212121212122,0.06451612903225806,0.12121212121212122
+" TSKH. Nguyễn Thiệu Huy giảng dạy môn ""Asymptotic behavior of Evolution Equations"" tại Technical University of Darmstadt, Đức.", Asymptotic behavior of Evolution Equations,28.87,0.3448275862068966,0.29629629629629634,0.3448275862068966
+" Môn học Operator Theory được giảng dạy tại University of Tübingen, Đức.","University of Tübingen, Germany",17.51,0.3478260869565218,0.2857142857142857,0.3478260869565218
+" Câu trả lời: Phương trình vi phân tuyến tính và phi tuyến trong không gian Banach, áp dụng vào phương trình đạo hàm riêng hàm.","Hướng nghiên cứu
+1. Phương trình vi phân tuyến tính và phi tuyến trong không gian Banach, áp dụng vào phương trình đạo hàm riêng hàm
+2. Phương trình đạo hàm riêng nửa tuyến tính, bài toán Cauchy không ôtônôm, đa tạp bất biến, đa tạp quán tính và dáng điệu tiệm cận nghiệm của các phương trình tiến hoá
+3. Nửa nhóm các toán tử, lý thuyết phổ và ứng dụng, phương trình Navier-Stokes và Hệ động lực thủy khí",46.22,0.46067415730337086,0.40909090909090906,0.4269662921348315
+,"
+Giảng viên chính",18.76,0.0,0.0,0
+" Email liên hệ với TS Bùi Xuân Diệu qua email là ""dieu.buixuan@hust.edu.vn"".",dieu.buixuan@hust.edu.vn,16.21,0.3846153846153846,0.33333333333333337,0.3846153846153846

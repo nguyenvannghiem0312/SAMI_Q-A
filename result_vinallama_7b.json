@@ -1,0 +1,452 @@
+[
+    {
+        "answer": " Các môn Toán đại cương mà Bộ môn Toán cơ bản phụ trách giảng dạy là Giải tích 1, 2, 3 và Đại số.",
+        "label_answer": " Giải tích 1, 2, 3 và Đại số;",
+        "time": 43.2,
+        "rouge1": 0.4347826087,
+        "rouge2": 0.4090909091,
+        "rougeL": 0.4347826087,
+        "similarity_score": 0.2463962734
+    },
+    {
+        "answer": " Bộ môn Toán cơ bản giảng dạy những môn Toán cơ bản như Giải tích phức và phép tính toán tử, Biến đổi tích phân, Giải tích hàm, Phương trình vi phân, Phương trình đạo hàm riêng và Đại số trong chương trình đào tạo đại học chuyên ngành.",
+        "label_answer": "Giải tích phức và phép tính toán tử, Biến đổi tích phân, Giải tích hàm, Phương trình vi phân, Phương trình đạo hàm riêng và Đại số;",
+        "time": 37.49,
+        "rouge1": 0.7131782946,
+        "rouge2": 0.7086614173,
+        "rougeL": 0.7131782946,
+        "similarity_score": 0.3818368614
+    },
+    {
+        "answer": " Có hai chuyên ngành đào tạo Tiến sĩ trong Bộ môn Toán cơ bản. Chúng là Giải tích (mã số: 62.46.01.02) và Phương trình vi phân và Tích phân (mã số: 62.46.01.03).",
+        "label_answer": "Đào tạo Tiến sĩ: 02 chuyên ngành",
+        "time": 21.35,
+        "rouge1": 0.34375,
+        "rouge2": 0.2580645161,
+        "rougeL": 0.28125,
+        "similarity_score": 0.4809954464
+    },
+    {
+        "answer": " Tên của hai chuyên ngành Tiến sĩ mà Bộ môn Toán cơ bản đào tạo là \"Giải tích\" và \"Phương trình vi phân và tích phân\".",
+        "label_answer": "+) Giải tích (mã số: 62.46.01.02)\n+) Phương trình vi phân và tích phân (mã số: 62.46.01.03)",
+        "time": 17.72,
+        "rouge1": 0.5428571429,
+        "rouge2": 0.4117647059,
+        "rougeL": 0.4571428571,
+        "similarity_score": 0.3698690534
+    },
+    {
+        "answer": " Có 2 chuyên ngành Tiến sĩ thuộc Bộ môn Toán cơ bản.",
+        "label_answer": " 02",
+        "time": 14.66,
+        "rouge1": 0,
+        "rouge2": 0,
+        "rougeL": 0,
+        "similarity_score": 0.1730914116
+    },
+    {
+        "answer": " Dựa trên ngữ cảnh được cung cấp, nghề nghiệp chính của PGS TS Nguyễn Công Minh là Giảng viên cao cấp.",
+        "label_answer": "\nGiảng viên cao cấp",
+        "time": 25.2,
+        "rouge1": 0.35,
+        "rouge2": 0.3157894737,
+        "rougeL": 0.35,
+        "similarity_score": 0.2755827904
+    },
+    {
+        "answer": " Cấp bậc giảng viên của PGS TS Nguyễn Công Minh là Giảng viên cao cấp.",
+        "label_answer": "\nGiảng viên cao cấp",
+        "time": 31.11,
+        "rouge1": 0.4375,
+        "rouge2": 0.4,
+        "rougeL": 0.4375,
+        "similarity_score": 0.523824513
+    },
+    {
+        "answer": " Email liên lạc của PGS TS Nguyễn Công Minh là \"viện@hust.edu.vn\".",
+        "label_answer": " minh.nguyencong@hust.edu.vn",
+        "time": 19.77,
+        "rouge1": 0.32,
+        "rouge2": 0.1739130435,
+        "rougeL": 0.32,
+        "similarity_score": 0.362993598
+    },
+    {
+        "answer": " PGS TS Nguyễn Công Minh nhận được grant for senior researcher tại Vietnam Institute for Advanced Study in Mathematics vào ngày 01 tháng 3 năm 2017.",
+        "label_answer": " 01/03-31/07/2016;",
+        "time": 22.94,
+        "rouge1": 0.0512820513,
+        "rouge2": 0,
+        "rougeL": 0.0512820513,
+        "similarity_score": 0.0806850418
+    },
+    {
+        "answer": " Cơ quan đã cấp grant cho PGS TS Nguyễn Công Minh là Viện nghiên cứu toán cao cấp Việt Nam.",
+        "label_answer": " Vietnam Institute for Advanced Study in Mathematics,",
+        "time": 40.9,
+        "rouge1": 0,
+        "rouge2": 0,
+        "rougeL": 0,
+        "similarity_score": 0.3940726519
+    },
+    {
+        "answer": " Tính đến thời điểm ngày 30 tháng 7 năm 2023, PGS TS Nguyễn Công Minh đã nhận được grant for senior researcher tại Vietnam Institute for Advanced Study in Mathematics.",
+        "label_answer": " 01/03-31/07/2016;",
+        "time": 47.37,
+        "rouge1": 0,
+        "rouge2": 0,
+        "rougeL": 0,
+        "similarity_score": 0.1037769765
+    },
+    {
+        "answer": " Các môn học đã và đang giảng dạy của PGS TS Nguyễn Công Minh là:",
+        "label_answer": "1. Đại số tuyến tính\n2. Cấu trúc cơ bản của Đại số\n3. Lí thuyết Galois\n4. Cơ sở lí thuyết số\n5. Cơ sở lí thuyết module\n6. Nhập môn đại số giao hoán\n7. Nhập môn lí thuyết số giải tích\n8. Nhập môn đại số giao hoán tổ hợp",
+        "time": 24.82,
+        "rouge1": 0.25,
+        "rouge2": 0.085106383,
+        "rougeL": 0.1458333333,
+        "similarity_score": -0.0913313627
+    },
+    {
+        "answer": " Câu trả lời là: Lĩnh vực nghiên cứu chính của PGS TS Nguyễn Công Minh là Đại số giao hoán tương giao với tổ hợp.",
+        "label_answer": "Hướng nghiên cứu\n1. Lĩnh vực nghiên cứu chính là Đại số giao hoán tương giao với tổ hợp:\n2. Các cấu trúc đại số cũng như các bất biến số liên quan đến ideal đơn thức;\n3. Các cấu trúc tổ hợp liên quan đến phức đơn hình; lí thuyết đồ thị hoặc siêu đồ thị.",
+        "time": 34.66,
+        "rouge1": 0.528,
+        "rouge2": 0.4390243902,
+        "rougeL": 0.416,
+        "similarity_score": 0.3581412733
+    },
+    {
+        "answer": " TS. Nguyễn Cảnh Lương là giảng viên cao cấp và Nhà giáo ưu tú tại Đại học Quốc gia Hà Nội.",
+        "label_answer": "Giảng viên cao cấp, Nhà giáo ưu tú",
+        "time": 21.32,
+        "rouge1": 0.5454545455,
+        "rouge2": 0.4761904762,
+        "rougeL": 0.5454545455,
+        "similarity_score": 0.4224122167
+    },
+    {
+        "answer": " Email liên lạc của PGS TS Nguyễn Cảnh Lương là \"luong.nguyencanh@hust.edu.vn\".",
+        "label_answer": "luong.nguyencanh@hust.edu.vn",
+        "time": 14.9,
+        "rouge1": 0.3846153846,
+        "rouge2": 0.3333333333,
+        "rougeL": 0.3846153846,
+        "similarity_score": 0.5672473907
+    },
+    {
+        "answer": " PGS TS Nguyễn Cảnh Lương đang giảng dạy các môn học sau:",
+        "label_answer": "Các môn học đã và đang giảng dạy\n1. Đại số\n2. Phương trình vi phân và chuỗi\n3. Giai tích 1\n4. Giải tích 2\n5. Cơ sở Dự liệu và Thuật toán\n6. Kỹ thuật Lập trình\n7. Phân tích và Thiết kế hệ thống",
+        "time": 17.29,
+        "rouge1": 0.3636363636,
+        "rouge2": 0.2093023256,
+        "rougeL": 0.2272727273,
+        "similarity_score": 0.2328803688
+    },
+    {
+        "answer": " TS. Nguyễn Duy Tân là giảng viên cao cấp.",
+        "label_answer": "Giảng viên cao cấp",
+        "time": 12.74,
+        "rouge1": 0.6666666667,
+        "rouge2": 0.6315789474,
+        "rougeL": 0.6666666667,
+        "similarity_score": 0.4583402872
+    },
+    {
+        "answer": " Email liên lạc của PGS TS Nguyễn Duy Tân là \"tan.nguyenduy (at) hust.edu.vn\".",
+        "label_answer": "tan.nguyenduy (at) hust.edu.vn",
+        "time": 15.89,
+        "rouge1": 0.4444444444,
+        "rouge2": 0.4,
+        "rougeL": 0.4444444444,
+        "similarity_score": 0.4387122393
+    },
+    {
+        "answer": " Thuộc đơn vị mà PGS TS Nguyễn Duy Tân làm việc là \"Bộ môn Toán cơ bản\".",
+        "label_answer": "Bộ môn Toán cơ bản",
+        "time": 27.93,
+        "rouge1": 0.4848484848,
+        "rouge2": 0.4516129032,
+        "rougeL": 0.4848484848,
+        "similarity_score": 0.3201003075
+    },
+    {
+        "answer": " PGS TS Nguyễn Duy Tân đã nhận giải Ba và giải Nhì kỳ thi HSG Quốc gia môn Toán dành cho HS PTTH (1997, 1998 ).",
+        "label_answer": " Giải Ba và giải Nhì",
+        "time": 35.56,
+        "rouge1": 0.35,
+        "rouge2": 0.3157894737,
+        "rougeL": 0.35,
+        "similarity_score": 0.5971306562
+    },
+    {
+        "answer": " PGS TS Nguyễn Duy Tân đạt danh hiệu Thủ khoa xuất sắc tốt nghiệp đại học năm 2003.",
+        "label_answer": " 2003",
+        "time": 26.61,
+        "rouge1": 0.0714285714,
+        "rouge2": 0,
+        "rougeL": 0.0714285714,
+        "similarity_score": 0.2903119922
+    },
+    {
+        "answer": " PGS TS Nguyễn Duy Tân được vinh danh bởi Giải thưởng Khoa học Viện Toán học năm 2017.",
+        "label_answer": " Giải thưởng Khoa học Viện Toán học 2017.",
+        "time": 26.16,
+        "rouge1": 0.6666666667,
+        "rouge2": 0.6,
+        "rougeL": 0.6666666667,
+        "similarity_score": 0.5542452931
+    },
+    {
+        "answer": " PGS TS Nguyễn Duy Tân đang giảng dạy các môn học sau:",
+        "label_answer": "Các môn học đã và đang giảng dạy\n1. Đại số, Giải tích II, Đại số tuyến tính\n2. Đại số đại cương, Lý thuyết Galois, Lý thuyết số đại số, Lý thuyết biểu diễn nhóm hữu hạn",
+        "time": 29.61,
+        "rouge1": 0.3783783784,
+        "rouge2": 0.25,
+        "rougeL": 0.2432432432,
+        "similarity_score": 0.2318371385
+    },
+    {
+        "answer": " Dựa trên ngữ cảnh được cung cấp, PGS TS Nguyễn Duy Tân hướng nghiên cứu về \"Đại số và Lý thuyết số\".",
+        "label_answer": "\nĐại số và Lý thuyết số",
+        "time": 30.4,
+        "rouge1": 0.358974359,
+        "rouge2": 0.3243243243,
+        "rougeL": 0.358974359,
+        "similarity_score": 0.4205227494
+    },
+    {
+        "answer": " Câu trả lời: PGS TS Nguyễn Thị Toàn có vị trí làm việc là giảng viên trong Bộ môn Toán cơ bản tại Đại học Quốc gia Hà Nội (HUST).",
+        "label_answer": "Giảng viên",
+        "time": 35.01,
+        "rouge1": 0.1632653061,
+        "rouge2": 0.1276595745,
+        "rougeL": 0.1632653061,
+        "similarity_score": 0.1662308276
+    },
+    {
+        "answer": " Email liên lạc của PGS TS Nguyễn Thị Toàn là toan.nguyenthi@hust.edu.vn.",
+        "label_answer": " toan.nguyenthi@hust.edu.vn",
+        "time": 21.88,
+        "rouge1": 0.4,
+        "rouge2": 0.347826087,
+        "rougeL": 0.4,
+        "similarity_score": 0.5339776278
+    },
+    {
+        "answer": " Dựa trên ngữ cảnh được cung cấp, PGS TS Nguyễn Thị Toàn đang giảng dạy các môn học sau:",
+        "label_answer": "Các môn học đã và đang giảng dạy\n1. Giải tích 1\n2. Giải tích 2\n3. Phương trình vi phân và chuỗi\n4. Điều khiển tối ưu\n5. Độ đo tích phân\n6. Tô pô đại cương",
+        "time": 17.48,
+        "rouge1": 0.4470588235,
+        "rouge2": 0.2168674699,
+        "rougeL": 0.2352941176,
+        "similarity_score": 0.3566895723
+    },
+    {
+        "answer": " PGS TS Nguyễn Thị Toàn hướng nghiên cứu về Giải tích biến phân và giải tích đa trị, cũng như Lý thuyết điều khiển tối ưu.",
+        "label_answer": "Hướng nghiên cứu\n1. Giải tích biến phân và giải tích đa trị (đối đạo hàm của ánh xạ đa trị, dưới vi phân của hàm giá trị tối ưu trong bài toán quy hoạch toán học với ràng buộc đatrị, đối đạo hàm của toán tử nón pháp tuyến, tính chính quy metric của hàm ẩn đa trị, tính liên tục Aubin của hàm ẩn đa trị, …).\n2. Lý thuyết điều khiển tối ưu (Dưới vi phân của hàm giá trị, các tính chất liên tục của ánh xạ nghiệm và các điều kiện cực trị trong các bài toán điều khiển tối ưu rời rạc cũng như bài toán điều khiển tối ưu liên tục…).",
+        "time": 54.18,
+        "rouge1": 0.3261802575,
+        "rouge2": 0.2857142857,
+        "rougeL": 0.2918454936,
+        "similarity_score": 0.521278739
+    },
+    {
+        "answer": " TS. Nguyễn Xuân Thảo là Nguyên Trưởng bộ môn Toán cơ bản trong Bộ môn Toán tại Đại học Quốc gia Hà Nội.",
+        "label_answer": "Nguyên Trưởng bộ môn Toán cơ bản",
+        "time": 21.84,
+        "rouge1": 0.4897959184,
+        "rouge2": 0.4680851064,
+        "rougeL": 0.4897959184,
+        "similarity_score": 0.516900599
+    },
+    {
+        "answer": " Email liên lạc của PGS TS Nguyễn Xuân Thảo là thao.nguyenxuan@hust.edu.vn.",
+        "label_answer": " thao.nguyenxuan@hust.edu.vn",
+        "time": 14.86,
+        "rouge1": 0.3846153846,
+        "rouge2": 0.3333333333,
+        "rougeL": 0.3846153846,
+        "similarity_score": 0.5076547861
+    },
+    {
+        "answer": " Dựa trên ngữ cảnh được cung cấp, Bộ môn Toán cơ bản thuộc đơn vị \"Cán bộ\".",
+        "label_answer": "Bộ môn Toán cơ bản",
+        "time": 25.99,
+        "rouge1": 0.4705882353,
+        "rouge2": 0.4375,
+        "rougeL": 0.4705882353,
+        "similarity_score": 0.5325827003
+    },
+    {
+        "answer": " Dựa trên ngữ cảnh được cung cấp, PGS TS Nguyễn Xuân Thảo đang giảng dạy các môn học sau:",
+        "label_answer": "Các môn học đã và đang giảng dạy\n1. Giải tích 1\n2. Giải tích 2\n3. Giải tích 3\n4. Phép biến đổi tích phân",
+        "time": 22.16,
+        "rouge1": 0.3943661972,
+        "rouge2": 0.2608695652,
+        "rougeL": 0.2535211268,
+        "similarity_score": 0.3571728468
+    },
+    {
+        "answer": " Câu trả lời: 1. Hướng nghiên cứu",
+        "label_answer": "Chuyên đề\n1. Hướng nghiên cứu\n2. Phép biến đổi tích phân\n3. Các hàm đặc biệt",
+        "time": 23.06,
+        "rouge1": 0.4615384615,
+        "rouge2": 0.3243243243,
+        "rougeL": 0.358974359,
+        "similarity_score": 0.3679487407
+    },
+    {
+        "answer": " TS. Ninh Văn Thu giữ vị trí Giảng viên cao cấp trong Bộ môn Toán cơ bản.",
+        "label_answer": "\nGiảng viên cao cấp",
+        "time": 22.89,
+        "rouge1": 0.4516129032,
+        "rouge2": 0.4137931034,
+        "rougeL": 0.4516129032,
+        "similarity_score": 0.413859129
+    },
+    {
+        "answer": " Bạn có thể liên lạc với PGS TS Ninh Văn Thu bằng cách gửi email đến địa chỉ email của ông ấy, thu.ninhvan@hust.edu.vn.",
+        "label_answer": "\nEmail: thu.ninhvan@hust.edu.vn",
+        "time": 17.01,
+        "rouge1": 0.2857142857,
+        "rouge2": 0.2,
+        "rougeL": 0.2857142857,
+        "similarity_score": 0.7207914591
+    },
+    {
+        "answer": " Email liên lạc của PGS TS Ninh Văn Thu là \"thu.ninhvan@hust.edu.vn\".",
+        "label_answer": " thu.ninhvan@hust.edu.vn",
+        "time": 14.7,
+        "rouge1": 0.4166666667,
+        "rouge2": 0.3636363636,
+        "rougeL": 0.4166666667,
+        "similarity_score": 0.5978265405
+    },
+    {
+        "answer": " PGS.TS Ninh Văn Thu giảng dạy các môn học sau đây:\n             - Giải tích I, II, III\n             - Giải tích phức",
+        "label_answer": "Các môn học đã và đang giảng dạy\n- Giải tích I, II, III\n- Giải tích phức",
+        "time": 29.46,
+        "rouge1": 0.8571428571,
+        "rouge2": 0.7777777778,
+        "rougeL": 0.7142857143,
+        "similarity_score": 0.4339229167
+    },
+    {
+        "answer": " Dựa trên ngữ cảnh được cung cấp, PGS TS Ninh Văn Thu tập trung nghiên cứu vào \"Giải tích phức nhiều biến.\"",
+        "label_answer": " Giải tích phức nhiều biến",
+        "time": 29.9,
+        "rouge1": 0.4347826087,
+        "rouge2": 0.4090909091,
+        "rougeL": 0.4347826087,
+        "similarity_score": 0.4287257195
+    },
+    {
+        "answer": " GS. TSKH. Nguyễn Thiệu Huy giữ vị trí Giảng viên cao cấp trong Bộ môn Toán cơ bản tại Đại học Quốc gia Hà Nội (HUST).",
+        "label_answer": "\nGiảng viên cao cấp",
+        "time": 37.37,
+        "rouge1": 0.3111111111,
+        "rouge2": 0.2790697674,
+        "rougeL": 0.3111111111,
+        "similarity_score": 0.3074758351
+    },
+    {
+        "answer": " Email liên lạc của GS. TSKH. Nguyễn Thiệu Huy là \"huy.nguyenthieu@hust.edu.vn\".",
+        "label_answer": " huy.nguyenthieu@hust.edu.vn",
+        "time": 22.48,
+        "rouge1": 0.4,
+        "rouge2": 0.347826087,
+        "rougeL": 0.4,
+        "similarity_score": 0.6698019505
+    },
+    {
+        "answer": " GS. TSKH. Nguyễn Thiệu Huy có vai trò là giảng viên cao cấp trong Bộ môn Toán cơ bản tại Đại học Quốc gia Hà Nội (HUST).",
+        "label_answer": "\nGiảng viên cao cấp",
+        "time": 30.86,
+        "rouge1": 0.3043478261,
+        "rouge2": 0.2727272727,
+        "rougeL": 0.3043478261,
+        "similarity_score": 0.2755405009
+    },
+    {
+        "answer": " GS. TSKH. Nguyễn Thiệu Huy giảng dạy các môn học sau trong Bộ môn Toán cơ bản:",
+        "label_answer": "Các môn học đã và đang giảng dạy\n1. Đại số, Giải Tích I, II, III (Chính quy), Toán II (KSCLC)\n2. Algebra, Differential Equations and Infinite Series (CTTT)\n3. Giải Tích hàm, PP Phần Tử hữu hạn (KSTN-Toán-tin)",
+        "time": 27.91,
+        "rouge1": 0.4096385542,
+        "rouge2": 0.2222222222,
+        "rougeL": 0.265060241,
+        "similarity_score": 0.3393373191
+    },
+    {
+        "answer": " GS. TSKH. Nguyễn Thiệu Huy giảng dạy Đại số, Giải Tích I, II và III trong chương trình CTTT.",
+        "label_answer": " Algebra, Differential Equations and Infinite Series",
+        "time": 38.21,
+        "rouge1": 0,
+        "rouge2": 0,
+        "rougeL": 0,
+        "similarity_score": -0.0086610392
+    },
+    {
+        "answer": " TSKH. Nguyễn Thiệu Huy giảng dạy các môn học sau tại Đại học Tübingen, Đức:",
+        "label_answer": "4. Functional Analysis (at University of Tübingen, Germany)\n5. Operator Theory (at University of Tübingen, Germany)",
+        "time": 29.2,
+        "rouge1": 0.1395348837,
+        "rouge2": 0.0487804878,
+        "rougeL": 0.1395348837,
+        "similarity_score": 0.2571084797
+    },
+    {
+        "answer": " Môn học Functional Analysis được giảng dạy bởi GS. TSKH. Nguyễn Thiệu Huy tại Đại học Tübingen ở Đức.",
+        "label_answer": "University of Tübingen, Germany",
+        "time": 35.79,
+        "rouge1": 0.1212121212,
+        "rouge2": 0.064516129,
+        "rougeL": 0.1212121212,
+        "similarity_score": 0.3702732325
+    },
+    {
+        "answer": " TSKH. Nguyễn Thiệu Huy giảng dạy môn \"Asymptotic behavior of Evolution Equations\" tại Technical University of Darmstadt, Đức.",
+        "label_answer": " Asymptotic behavior of Evolution Equations",
+        "time": 28.87,
+        "rouge1": 0.3448275862,
+        "rouge2": 0.2962962963,
+        "rougeL": 0.3448275862,
+        "similarity_score": 0.3080203533
+    },
+    {
+        "answer": " Môn học Operator Theory được giảng dạy tại University of Tübingen, Đức.",
+        "label_answer": "University of Tübingen, Germany",
+        "time": 17.51,
+        "rouge1": 0.347826087,
+        "rouge2": 0.2857142857,
+        "rougeL": 0.347826087,
+        "similarity_score": 0.475546062
+    },
+    {
+        "answer": " Câu trả lời: Phương trình vi phân tuyến tính và phi tuyến trong không gian Banach, áp dụng vào phương trình đạo hàm riêng hàm.",
+        "label_answer": "Hướng nghiên cứu\n1. Phương trình vi phân tuyến tính và phi tuyến trong không gian Banach, áp dụng vào phương trình đạo hàm riêng hàm\n2. Phương trình đạo hàm riêng nửa tuyến tính, bài toán Cauchy không ôtônôm, đa tạp bất biến, đa tạp quán tính và dáng điệu tiệm cận nghiệm của các phương trình tiến hoá\n3. Nửa nhóm các toán tử, lý thuyết phổ và ứng dụng, phương trình Navier-Stokes và Hệ động lực thủy khí",
+        "time": 46.22,
+        "rouge1": 0.4606741573,
+        "rouge2": 0.4090909091,
+        "rougeL": 0.4269662921,
+        "similarity_score": 0.6083091497
+    },
+    {
+        "answer": null,
+        "label_answer": "\nGiảng viên chính",
+        "time": 18.76,
+        "rouge1": 0,
+        "rouge2": 0,
+        "rougeL": 0,
+        "similarity_score": 0
+    },
+    {
+        "answer": " Email liên hệ với TS Bùi Xuân Diệu qua email là \"dieu.buixuan@hust.edu.vn\".",
+        "label_answer": "dieu.buixuan@hust.edu.vn",
+        "time": 16.21,
+        "rouge1": 0.3846153846,
+        "rouge2": 0.3333333333,
+        "rougeL": 0.3846153846,
+        "similarity_score": 0.5492067337
+    }
+]

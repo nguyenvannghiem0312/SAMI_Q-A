@@ -4,4 +4,5 @@ pandas
 datasets
 openai
 sentence-transformers
-tourch
+torch
+rouge-score

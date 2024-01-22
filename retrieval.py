@@ -18,7 +18,7 @@ class Retriever:
                 corpus_path: str = 'documents_chunk/documents_chunk.json', 
                 corpus_emb_path: str = 'documents_chunk/documents_embedding.pkl',
                 model_embedding: str = 'model/bi-encoder-2epochs', 
-                eval_path: str = 'data/test.json'):
+                ):
         
         print("-----------------------------------------------------------------")
         print("--------------Read the corpus and embedding corpus---------------")
@@ -48,9 +48,6 @@ class Retriever:
         if torch.cuda.is_available() == True:
            self.embedder.cuda()
         print("---> Load embedding model sucessfull.")
-        
-        self.eval_path = eval_path
-
         
     def split_text(self, text):
         text = text.translate(str.maketrans('', '', string.punctuation))
@@ -101,52 +98,18 @@ class Retriever:
         sorted_passages = sorted(self.meta_corpus, key=lambda x: x["combined_score"], reverse=True)
         return sorted_passages[:topk]
     
-    def evaluate(self, topk = 10, w_bm25 = 0.3, w_emb = 0.7):
-        print("-----------------------------------------------------------------")
-        print("----------------------------Evaluate-----------------------------")
-        print("-----------------------------------------------------------------")
-        with open(self.eval_path, 'r', encoding='utf-8') as file:
-            test = json.load(file)
-        test = pd.DataFrame(test)
-
-        mrr = [0] * topk
-        recall = [0] * topk
-        # print(accuracy)
-        number_test = 0
-
-        for idx in tqdm(range(len(test))):
-            que = test['question'][idx]
-            number_test += 1
-            top_passages = self.retrieve(que, topk=topk, w_bm25=w_bm25, w_emb=w_emb)
-            top_chunks_id = list(pd.DataFrame(top_passages)['chunk_id'])
-            try:
-                first_occurrence = top_chunks_id.index(int(test['label_chunk_id'][idx]))
-            except ValueError:
-                continue
-            
-            for j in range(first_occurrence, topk):
-                mrr[j] += 1 / (first_occurrence + 1)
-                recall[j] += 1
-
-        mrr = list(map(lambda x: x / number_test, mrr))
-        recall = list(map(lambda x: x / number_test, recall))
-        print(f"Weight = {w_bm25:.1f} * BM25 + {w_emb:.1f} Embedding")
-        print("| MRR@k | Value | Recall@k | Value |")
-        print("|-------|-------|----------|-------|")
-        for k in range(topk):
-            print(f"| MRR@{k + 1} | {mrr[k]:.4f} | Recall@{k + 1} | {recall[k]:.4f} |")
-
-        return mrr, recall
     def __call__(self, question, topk = 1, w_bm25 = 0.3, w_emb = 0.7):
         top_passages = self.retrieve(question, topk=topk, w_bm25 = w_bm25, w_emb = w_emb)
         return top_passages
     
-if __name__ == "__main__":
-    re = Retriever()
-    # print(re("Bộ mộn Toán tin có bao nhiều cán bộ?"))
-    for a in range(0, 11):
-        a /= 10
-        b = 1 - a
-        re.evaluate(topk=10, w_bm25=a, w_emb=b)
-        print('\n')
+# if __name__ == "__main__":
+    # re = Retriever(corpus_path ='documents_chunk/documents_chunk.json', 
+    #             corpus_emb_path ='documents_chunk/documents_embedding_base.pkl',
+    #             model_embedding ='model/bi-encoder', )
+    # # print(re("Bộ mộn Toán tin có bao nhiều cán bộ?"))
+    # for a in range(0, 11):
+    #     a /= 10
+    #     b = 1 - a
+    #     re.evaluate(topk=10, w_bm25=a, w_emb=b)
+    #     print('\n')
     
