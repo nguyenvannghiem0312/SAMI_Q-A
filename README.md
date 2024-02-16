@@ -34,15 +34,20 @@ Weight = 0.3 * BM25 + 0.7 Embedding
 Here are some examples from the model:
 
 **User:** Học Toán tin sau ra làm gì?
+
 **System:** Sinh viên chuyên ngành Toán-Tin có thể công tác trong nhiều ngành nghề sau khi tốt nghiệp, bao gồm:
+
 1. Nhà phân tích hệ thống
 2. Kỹ sư phần mềm
 3. Chuyên gia tin học
 4. Chuyên viên thống kê
 5. Nhà toán học
 6. Giảng viên đại học
-Time: 23.51
+
+**Time:** 23.51
 
 **User:** Sinh viên viện Toán học xong làm được gì?
+
 **System:** Sau khi tốt nghiệp từ Viện Toán ứng dụng và Tin học, sinh viên có thể tìm được việc làm trong các lĩnh vực như ngân hàng, trung tâm phân tích tài chính, cơ quan kiểm toán thống kê, Tổng cục Thống kê, Ủy ban kế hoạch Nhà nước, trường đại học, cơ sở nghiên cứu, hoặc trong ngành tin học. Họ cũng có thể tiếp tục học sau đại học tại nước ngoài. Đa số cựu sinh viên của Viện có thu nhập khá cao và ổn định, và một số người đã trở thành các thành viên chủ chốt của đơn vị công tác.
-Time: 114.39
+
+**Time:**: 114.39
