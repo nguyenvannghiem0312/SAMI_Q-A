@@ -71,7 +71,7 @@ class RAGModel:
             test = json.load(file)
         test = pd.DataFrame(test[:50])
 
-        output_file_path = "results_llm_2.7B.csv"
+        output_file_path = "results_llm_7B.csv"
         scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2','rougeL'], use_stemmer=True)
         number_test = 0
         results = []

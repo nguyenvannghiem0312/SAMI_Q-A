@@ -42,7 +42,7 @@ class GenerateModel:
             <|im_end|>
             <|im_start|>user
             Hãy trả lời câu hỏi dưới đây bằng cách sử dụng thông tin có trong ngữ cảnh mà tôi cung cấp, tuyệt đối không thêm bất kì thông tin nào bên ngoài.
-            Nếu ngữ cảnh không chứa câu trả lời hãy trả về "Tôi không có thông tin về câu hỏi này".
+            Nếu ngữ cảnh không chứa câu trả lời hãy trả về "Tôi không có thông tin về câu hỏi này". 
             Câu hỏi: "{question}"
             Ngữ cảnh: "{context}"
             <|im_end|>
@@ -79,14 +79,14 @@ class GenerateModel:
             input_prompt,
             temperature=temperature,
             max_tokens=max_length,
-            stop=["Q:", "\n\n", "\n\n \n\n", "\n \n"],
+            stop=["Q:", "\n\n\n", "\n\n \n\n", "\n \n \n"],
             echo=False
         )
         answer = output['choices'][0]['text']
         finish_reason = output['choices'][0]['finish_reason']
 
         if answer == " Tôi không có thông tin về câu hỏi này." and self.hallucination == True:
-            # print("--> Do not find the context. Then answer with no context.\n\n")
+            print("--> Do not find the context. Then answer with no context.\n\n")
             output = self.llm(
                 self.prompt_no_context.format_map(
                 {
@@ -96,7 +96,7 @@ class GenerateModel:
                 ),
                 temperature=temperature,
                 max_tokens=1024,
-                stop=["Q:", "\n\n", "\n\n \n\n", "\n \n"],
+                stop=["Q:", "\n\n\n", "\n\n \n\n", "\n \n \n"],
                 echo=False
             )
 
